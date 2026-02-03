@@ -1,6 +1,6 @@
 Question 1:
-Pros of Agile development: It is an iterative process to software development, it lets you break down the project into small stages, and it allows for constant value add/feedback to/from the customer.
-Cons of Agile development: It requires more careful planning to break down the project into stages, it puts more pressure on engineers to deliver results at the end of each sprint, and it could require more infrastructure to support Continuous Integration.
+- Pros of Agile development: It is an iterative process to software development, it lets you break down the project into small stages, and it allows for constant value add/feedback to/from the customer.
+- Cons of Agile development: It requires more careful planning to break down the project into stages, it puts more pressure on engineers to deliver results at the end of each sprint, and it could require more infrastructure to support Continuous Integration.
 
 
 Question 2:
