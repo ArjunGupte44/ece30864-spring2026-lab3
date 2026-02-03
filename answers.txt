@@ -4,8 +4,8 @@ Cons of Agile development: It requires more careful planning to break down the p
 
 
 Question 2:
-Scrum Master: The Scrum Master handles all scrum related tasks, including working with JIRA and managing all the sprints and team meetings.
-Product Owner: The Product Owner has broader responsibilities, including setting the direction for the team, handling releases, and managing stakeholders.
+- Scrum Master: The Scrum Master handles all scrum related tasks, including working with JIRA and managing all the sprints and team meetings.
+- Product Owner: The Product Owner has broader responsibilities, including setting the direction for the team, handling releases, and managing stakeholders.
 
 
 Question 3:
