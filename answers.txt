@@ -12,3 +12,10 @@ Question 3:
 Spring Planning Meeting: In this meeting, the team determines what to complete in the coming sprint, moves issues from the backlog into the current sprint, creates story points and assigns stories to the team, and finally starts the sprint.
 Daily Scrum/Standup Meeting: In this short 10-minute meeting every day during the sprint, the team members discuss the work completed, the plan for the day, and any blockers.
 Sprint Retrospective Meeting: This meeting occurs at the end of the sprint and the team discusses the work completed and moves any incomplete work back into the backlog and finally closes the sprint.
+
+
+Question 4:
+Epic: An epic represents a large body of the work, such as a large feature or module to be developed. It can be broken down into smaller stories.
+Story: A story is a smaller software requirement to be implemented and it is part of an epic.  
+Bug: A bug is a problem that needs to be fixed. It usually is a blocker for a story and must be fixed before the story can be completed.
+Task: A task is just a small, individual to-do item that needs to be completed.
