@@ -15,7 +15,7 @@ Sprint Retrospective Meeting: This meeting occurs at the end of the sprint and t
 
 
 Question 4:
-Epic: An epic represents a large body of the work, such as a large feature or module to be developed. It can be broken down into smaller stories.
-Story: A story is a smaller software requirement to be implemented and it is part of an epic.  
-Bug: A bug is a problem that needs to be fixed. It usually is a blocker for a story and must be fixed before the story can be completed.
-Task: A task is just a small, individual to-do item that needs to be completed.
+- Epic: An epic represents a large body of the work, such as a large feature or module to be developed. It can be broken down into smaller stories.
+- Story: A story is a smaller software requirement to be implemented and it is part of an epic.  
+- Bug: A bug is a problem that needs to be fixed. It usually is a blocker for a story and must be fixed before the story can be completed.
+- Task: A task is just a small, individual to-do item that needs to be completed.
