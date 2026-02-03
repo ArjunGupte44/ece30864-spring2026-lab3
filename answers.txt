@@ -6,3 +6,9 @@ Cons of Agile development: It requires more careful planning to break down the p
 Question 2:
 Scrum Master: The Scrum Master handles all scrum related tasks, including working with JIRA and managing all the sprints and team meetings.
 Product Owner: The Product Owner has broader responsibilities, including setting the direction for the team, handling releases, and managing stakeholders.
+
+
+Question 3:
+Spring Planning Meeting: In this meeting, the team determines what to complete in the coming sprint, moves issues from the backlog into the current sprint, creates story points and assigns stories to the team, and finally starts the sprint.
+Daily Scrum/Standup Meeting: In this short 10-minute meeting every day during the sprint, the team members discuss the work completed, the plan for the day, and any blockers.
+Sprint Retrospective Meeting: This meeting occurs at the end of the sprint and the team discusses the work completed and moves any incomplete work back into the backlog and finally closes the sprint.
